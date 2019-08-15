@@ -1,0 +1,7 @@
+{
+    "companyName" : "Company",
+    "companyAddress" : "Street and name",
+    "postalCode" : "digits of postal code",
+    "city" : "City A",
+    "details" : "This is the iOS assignment"
+}
