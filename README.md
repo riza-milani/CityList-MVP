@@ -1,7 +1,7 @@
 # City List - mobile assignment (iOS)
 last rev. 2018-08-10
 
-[![Build Status](https://travis-ci.org/riza-milani/CityList-MVP.svg?branch=master)](https://travis-ci.org/riza-milani/CityList-MVP)
+[![Build Status](https://travis-ci.org/riza-milani/CityList-MVP.svg?branch=develop)](https://travis-ci.org/riza-milani/CityList-MVP)
 
 Following subjects used in this project:
 * Xcode 10.2.1
