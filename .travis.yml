@@ -2,4 +2,4 @@ language: swift
 osx_image: xcode10.2
 xcode_project: CityList/CityList.xcodeproj
 xcode_scheme: CityList
-xcode_destination: platform=iOS Simulator,OS=12.0,name=iPhone 6s
+xcode_destination: platform=iOS Simulator,OS=12.2,name=iPhone 6s
